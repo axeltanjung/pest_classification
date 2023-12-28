@@ -1,1 +1,1 @@
-# pest_classification
+# Plant Pest Classification using Convolutional Neural Network (CNN) Algorithms
